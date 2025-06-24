@@ -1,1 +1,4 @@
-this is a simple raw python code for the music player created by myself
+1)Remove or disable antivirus before useing the application 
+2)To run the python code install the following libraries using the command in cmd:
+                            >>>     pip install pygame mutagen tkinterdnd2
+-Viswa AG 
